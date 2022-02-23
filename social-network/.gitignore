@@ -1,0 +1,9 @@
+.npm
+node_modules
+
+# другое
+.idea/
+.vscode/
+.DS_Store
+config/default.json
+config/production.json

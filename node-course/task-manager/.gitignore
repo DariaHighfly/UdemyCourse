@@ -1,0 +1,12 @@
+.npm
+node_modules
+
+# другое
+.idea/
+.vscode/
+.DS_Store
+
+sendgrid.env
+sendgrid.env
+
+config
